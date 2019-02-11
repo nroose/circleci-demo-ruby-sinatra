@@ -1,4 +1,4 @@
-# CircleCI Demo Application: Sinatra [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-ruby-sinatra.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-ruby-sinatra)
+# CircleCI Demo Application: Sinatra [![CircleCI](https://circleci.com/gh/nroose/circleci-demo-ruby-sinatra.svg?style=svg)](https://circleci.com/gh/nroose/circleci-demo-ruby-sinatra)
 
 This is an example application showcasing how to run a Sinatra app on CircleCI 2.0.
 
@@ -9,5 +9,3 @@ You can follow along with this project by reading the [documentation](https://ci
 Copyright (c) 2017 CircleCI
 
 Distributed under the MIT License. See the file COPYING.
-
-
